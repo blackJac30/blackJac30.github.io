@@ -1,2 +1,2 @@
-# blackJac30.github.io
-Sam的个人网站
+# blackJAc.github.io
+Sam的个人主页
